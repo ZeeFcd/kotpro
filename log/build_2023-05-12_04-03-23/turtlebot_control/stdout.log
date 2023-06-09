@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating turtlebot_control.egg-info
+writing turtlebot_control.egg-info/PKG-INFO
+writing dependency_links to turtlebot_control.egg-info/dependency_links.txt
+writing entry points to turtlebot_control.egg-info/entry_points.txt
+writing requirements to turtlebot_control.egg-info/requires.txt
+writing top-level names to turtlebot_control.egg-info/top_level.txt
+writing manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+reading manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/lib/python3.8/site-packages/site.py
+Creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/lib/python3.8/site-packages/turtlebot-control.egg-link (link to .)
+Installing turtlebot_controller script to /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/lib/turtlebot_control
+
+Installed /home/amongus/ros2_ws/src/turtlebot_control/build/turtlebot_control
+running install_data
+creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/ament_index
+creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/ament_index/resource_index
+creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/ament_index/resource_index/packages
+copying resource/turtlebot_control -> /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/turtlebot_control

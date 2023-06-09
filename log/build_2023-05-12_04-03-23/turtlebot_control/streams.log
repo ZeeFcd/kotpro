@@ -1,0 +1,25 @@
+[1.796s] Invoking command in '/home/amongus/ros2_ws/src/turtlebot_control/build/turtlebot_control': PYTHONPATH=/home/amongus/ros2_ws/src/turtlebot_control/build/turtlebot_control/prefix_override:/home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/amongus/ros2_ws/src/turtlebot_control/build/turtlebot_control/build --no-deps install_data
+[2.348s] running develop
+[2.667s] running egg_info
+[2.668s] creating turtlebot_control.egg-info
+[2.668s] writing turtlebot_control.egg-info/PKG-INFO
+[2.668s] writing dependency_links to turtlebot_control.egg-info/dependency_links.txt
+[2.669s] writing entry points to turtlebot_control.egg-info/entry_points.txt
+[2.669s] writing requirements to turtlebot_control.egg-info/requires.txt
+[2.669s] writing top-level names to turtlebot_control.egg-info/top_level.txt
+[2.673s] writing manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+[2.744s] reading manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+[2.745s] writing manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+[2.826s] running build_ext
+[2.827s] Creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/lib/python3.8/site-packages/site.py
+[2.831s] Creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/lib/python3.8/site-packages/turtlebot-control.egg-link (link to .)
+[2.834s] Installing turtlebot_controller script to /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/lib/turtlebot_control
+[2.834s] 
+[2.834s] Installed /home/amongus/ros2_ws/src/turtlebot_control/build/turtlebot_control
+[2.834s] running install_data
+[2.834s] creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/ament_index
+[2.835s] creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/ament_index/resource_index
+[2.835s] creating /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/ament_index/resource_index/packages
+[2.835s] copying resource/turtlebot_control -> /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/ament_index/resource_index/packages
+[2.835s] copying package.xml -> /home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/share/turtlebot_control
+[2.936s] Invoked command in '/home/amongus/ros2_ws/src/turtlebot_control/build/turtlebot_control' returned '0': PYTHONPATH=/home/amongus/ros2_ws/src/turtlebot_control/build/turtlebot_control/prefix_override:/home/amongus/ros2_ws/src/turtlebot_control/install/turtlebot_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/amongus/ros2_ws/src/turtlebot_control/build/turtlebot_control/build --no-deps install_data

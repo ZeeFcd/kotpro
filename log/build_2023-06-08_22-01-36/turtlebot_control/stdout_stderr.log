@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing turtlebot_control.egg-info/PKG-INFO
+writing dependency_links to turtlebot_control.egg-info/dependency_links.txt
+writing entry points to turtlebot_control.egg-info/entry_points.txt
+writing requirements to turtlebot_control.egg-info/requires.txt
+writing top-level names to turtlebot_control.egg-info/top_level.txt
+reading manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/zoli/Asztal/ros2_kot_prog/install/turtlebot_control/lib/python3.8/site-packages/turtlebot-control.egg-link (link to .)
+Installing turtlebot_controller script to /home/zoli/Asztal/ros2_kot_prog/install/turtlebot_control/lib/turtlebot_control
+
+Installed /home/zoli/Asztal/ros2_kot_prog/build/turtlebot_control
+running install_data

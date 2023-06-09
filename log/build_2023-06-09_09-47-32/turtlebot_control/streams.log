@@ -1,0 +1,17 @@
+[0.359s] Invoking command in '/home/zoli/Asztal/kotpro/build/turtlebot_control': PYTHONPATH=/home/zoli/Asztal/kotpro/build/turtlebot_control/prefix_override:/home/zoli/Asztal/kotpro/install/turtlebot_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zoli/Asztal/kotpro/build/turtlebot_control/build --no-deps install_data
+[0.486s] running develop
+[0.550s] running egg_info
+[0.550s] writing turtlebot_control.egg-info/PKG-INFO
+[0.550s] writing dependency_links to turtlebot_control.egg-info/dependency_links.txt
+[0.550s] writing entry points to turtlebot_control.egg-info/entry_points.txt
+[0.550s] writing requirements to turtlebot_control.egg-info/requires.txt
+[0.550s] writing top-level names to turtlebot_control.egg-info/top_level.txt
+[0.567s] reading manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+[0.567s] writing manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+[0.585s] running build_ext
+[0.585s] Creating /home/zoli/Asztal/kotpro/install/turtlebot_control/lib/python3.8/site-packages/turtlebot-control.egg-link (link to .)
+[0.586s] Installing turtlebot_controller script to /home/zoli/Asztal/kotpro/install/turtlebot_control/lib/turtlebot_control
+[0.586s] 
+[0.586s] Installed /home/zoli/Asztal/kotpro/build/turtlebot_control
+[0.586s] running install_data
+[0.600s] Invoked command in '/home/zoli/Asztal/kotpro/build/turtlebot_control' returned '0': PYTHONPATH=/home/zoli/Asztal/kotpro/build/turtlebot_control/prefix_override:/home/zoli/Asztal/kotpro/install/turtlebot_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zoli/Asztal/kotpro/build/turtlebot_control/build --no-deps install_data

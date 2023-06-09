@@ -1,0 +1,17 @@
+[0.391s] Invoking command in '/home/zoli/Asztal/ros2_kot_prog/build/turtlebot_control': PYTHONPATH=/home/zoli/Asztal/ros2_kot_prog/build/turtlebot_control/prefix_override:/home/zoli/Asztal/ros2_kot_prog/install/turtlebot_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zoli/Asztal/ros2_kot_prog/build/turtlebot_control/build --no-deps install_data
+[0.524s] running develop
+[0.593s] running egg_info
+[0.594s] writing turtlebot_control.egg-info/PKG-INFO
+[0.594s] writing dependency_links to turtlebot_control.egg-info/dependency_links.txt
+[0.594s] writing entry points to turtlebot_control.egg-info/entry_points.txt
+[0.594s] writing requirements to turtlebot_control.egg-info/requires.txt
+[0.594s] writing top-level names to turtlebot_control.egg-info/top_level.txt
+[0.612s] reading manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+[0.612s] writing manifest file 'turtlebot_control.egg-info/SOURCES.txt'
+[0.632s] running build_ext
+[0.632s] Creating /home/zoli/Asztal/ros2_kot_prog/install/turtlebot_control/lib/python3.8/site-packages/turtlebot-control.egg-link (link to .)
+[0.632s] Installing turtlebot_controller script to /home/zoli/Asztal/ros2_kot_prog/install/turtlebot_control/lib/turtlebot_control
+[0.632s] 
+[0.632s] Installed /home/zoli/Asztal/ros2_kot_prog/build/turtlebot_control
+[0.632s] running install_data
+[0.650s] Invoked command in '/home/zoli/Asztal/ros2_kot_prog/build/turtlebot_control' returned '0': PYTHONPATH=/home/zoli/Asztal/ros2_kot_prog/build/turtlebot_control/prefix_override:/home/zoli/Asztal/ros2_kot_prog/install/turtlebot_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/zoli/Asztal/ros2_kot_prog/build/turtlebot_control/build --no-deps install_data
